@@ -5,3 +5,6 @@ git remote add upstream
 git fetch upstream
 git checkout main
 git merge upstream/main
+
+#generate requirements file automatically
+%pip freeze > requirements.txt
