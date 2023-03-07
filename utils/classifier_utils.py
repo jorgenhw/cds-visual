@@ -8,6 +8,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+# Below are some functions that we will use to help us visualize the data and the results of our classification
 def plot_sample(X, y, classes, samples_per_class):
     """
     Plots a grid of samples for each class
