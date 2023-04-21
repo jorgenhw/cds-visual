@@ -1,5 +1,7 @@
 numpy
-pandas
+pandas 
+tqdm
 matplotlib
 scikit-learn
 tensorflow-cpu
+tensorflow-hub
